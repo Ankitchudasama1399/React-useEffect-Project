@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(238, 221, 221);
+    color: rgb(187, 88, 88);
+}
+.lodingp {
+    color: rgba(14, 6, 6, 0.733);
+    text-align: center;
+    margin-top: 300px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.main {
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 20px 20px 60px rgba(2, 1, 1, 0.349),inset -20px -20px 60px #ffffff5b;
+}
+
+.logo {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    color: chocolate;
+}
+
+button {
+    border-radius: 6px;
+    height: 40px;
+    width: 80px;
+    background-color: rgb(241, 223, 193);
+    font-weight: bold;
+    color: crimson;
+    border: none;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
